@@ -32,4 +32,6 @@ $books = [
         echo $book ['title'] . $book['author'];
         if ($book ['title'] === 'Harry Potter'){
         }
+
+        echo "test";
 }
